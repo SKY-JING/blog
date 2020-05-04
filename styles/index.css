@@ -1,0 +1,27 @@
+.book-summary ul.summary li.header {
+  text-transform: none;
+}
+
+.markdown-section h1 {
+  font-size: 1.5em;
+  margin: 1em 0;
+}
+
+.markdown-section h2 {
+  font-size: 1.4em;
+  margin: 1em 0;
+}
+
+.markdown-section h3 {
+  font-size: 1.3em;
+  margin: 1em 0;
+}
+
+.copy-code-button {
+  background-color: white !important;
+  color: gray !important;
+}
+
+.my_title {
+  margin-bottom: 1em;
+}
