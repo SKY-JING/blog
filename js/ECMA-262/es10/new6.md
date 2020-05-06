@@ -10,7 +10,7 @@ const sym = Symbol('description');
 assert.equal(String(sym), 'Symbol(description)');
 ```
 
-## 改进
+## 新增
 现在可以通过Symbol.prototype.description直接访问
 ```js
 assert.equal(sym.description, 'description');

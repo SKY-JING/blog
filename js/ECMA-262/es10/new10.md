@@ -3,7 +3,7 @@
 ## 一、历史
 es6之后基础数据类型(六种)：String、Number、Boolean、Null、Undefined、Symbol
 
-## 二、改进
+## 二、新增
 新增BigInt基础数据类型
 
 ## 三、参考资料
