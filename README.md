@@ -1,7 +1,7 @@
 <div style="text-align: center; font-weight: 700; font-size: 2em;">目录</div>
 
 * js
-  * [ECMAScript](./js/ECMA-262/README.md)
+  * ECMAScript
     * [es6](./js/ECMA-262/es6/README.md)
     * [es7](./js/ECMA-262/es7/README.md)
       * [Array.includes()](./js/ECMA-262/es7/new1.md)
@@ -41,9 +41,10 @@
     * [parseHTML函数分析](./js/jquery/parseHTML.md)
     * [buildFragment函数分析](./js/jquery/buildFragment.md)
 * linux
-  * [nginx部署](./linux/nginx部署.md)
   * [目录结构分析](./linux/目录结构分析.md)
   * [常用命令](./linux/常用命令.md)
+  * [nginx部署](./linux/nginx部署.md)
+  * [mysql安装](./linux/mysql安装.md)
 * 小代码
   * [数组去重](./litterPre/数组去重.md)
   * [获取项目根路径](./litterPre/获取项目根路径.md)
@@ -73,7 +74,7 @@
   * [svn](./mac/svn.md)
   * [pip](./mac/pip.md)
 * 其他文档
-  * [Markdown文档](./other/Markdown文档.md)
+  * [Markdown使用](./other/Markdown使用.md)
   * [视频直播实现](./other/视频直播实现.md)
   * [解析拍照或系统相册取得的图片](./other/解析拍照或系统相册取得的图片.md)
   * [H5与app建立桥梁互通消息](./other/H5与app建立桥梁互通消息.md)
